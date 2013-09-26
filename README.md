@@ -1,3 +1,8 @@
+ZeusCart - India
+================
+As a open source initiative, we are making needful changes to make Zeuscart-India as ready to adopt shopping cart system for Indian Retail Market.
+
+
 ZeusCart
 ========
 ZeusCart - PHP - MySQL Based Open Source Shopping Cart
